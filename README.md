@@ -21,10 +21,10 @@ Simple landing page with sliding menu and modal
 #### Desktop Version
 
 - Desktop version
-  ![Desktop Layout](./Screenshot%20from%202022-10-17%2011-49-36.png)
+  ![Desktop Layout](./img/Screenshot%20from%202022-10-17%2011-49-36.png)
 
 - form window
-  ![Desktop Layout](Screenshot%20from%202022-10-17%2011-50-20.png)
+  ![Desktop Layout](./img/Screenshot%20from%202022-10-17%2011-50-20.png)
 
 ## My process
 
