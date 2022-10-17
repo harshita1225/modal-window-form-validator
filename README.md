@@ -4,7 +4,7 @@ Simple landing page with sliding menu and modal
 
 ## Link
 
-- Live Site URL: [https://harshita1225.github.io/nature-tours/](https://harshita1225.github.io/nature-tours/)
+- Live Site URL: [https://harshita1225.github.io/modal-window-form-validator/](https://harshita1225.github.io/modal-window-form-validator/)
 
 ## Project Specifications
 
